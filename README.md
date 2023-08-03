@@ -1,27 +1,19 @@
-# Vite+vue2项目模板
+# 背景
+> 为了降低3d开发的难度，这里有一些常见问题以及场景供直接使用和借鉴
 
-## 介绍
-集成Vite、vue2、vueRouter、Vuex、sass项目开发模板
+# 使用方式
 
-注意：
-- 由于vue官网脚手架[vue-cli](https://cli.vuejs.org/zh/index.html)内置的构建工具webpack打包太慢，所以改为vite工具。
-- [vite](https://vitejs.cn/)官网脚手架初始化的项目是基于vue3，我们需要改为vue2。
-
-## 使用
-
-1.进入项目目录，安装依赖，运行项目
-
-```
-npm install
-npm run dev
+## template使用
+```bash
+1. yarn install
+2. npm run vite
+4. 打开 http://localhost:4040/
 ```
 
-2.打包项目,预览项目
-
+## docs
+```bash
+1. cd docs && yarn install
+2. npm run vite
+3. npm run docs
+4. 打开 http://localhost:5173/
 ```
-npm run build
-npm run preview
-```
-
-
-
