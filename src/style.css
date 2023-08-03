@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.el-menu--horizontal>.el-submenu .el-submenu__title {
+  height: 52px;
+  line-height: 52px;
+}
+
+.el-menu--horizontal>.el-menu-item {
+  height: 52px;
+  line-height: 52px;
+}
+
+.el-menu.el-menu--horizontal {
+  padding-left: 200px;
+  border: none;
+}
+
+.el-menu.el-menu--horizontal {
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+}

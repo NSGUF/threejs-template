@@ -1,0 +1,74 @@
+{
+  "hash": "a324227c",
+  "browserHash": "f9f23f48",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-browser.js",
+      "file": "vue.js",
+      "fileHash": "b9dc61f3",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "12f80fe4",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../../../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "91063a95",
+      "needsInterop": false
+    },
+    "three/examples/jsm/libs/stats.module": {
+      "src": "../../../../../node_modules/three/examples/jsm/libs/stats.module.js",
+      "file": "three_examples_jsm_libs_stats__module.js",
+      "fileHash": "dd8b2400",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls": {
+      "src": "../../../../../node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls.js",
+      "fileHash": "ea0829f4",
+      "needsInterop": false
+    },
+    "three/examples/jsm/renderers/CSS2DRenderer.js": {
+      "src": "../../../../../node_modules/three/examples/jsm/renderers/CSS2DRenderer.js",
+      "file": "three_examples_jsm_renderers_CSS2DRenderer__js.js",
+      "fileHash": "a80f8ffd",
+      "needsInterop": false
+    },
+    "lottie-web": {
+      "src": "../../../../../node_modules/lottie-web/build/player/lottie.js",
+      "file": "lottie-web.js",
+      "fileHash": "b22a7cc9",
+      "needsInterop": true
+    },
+    "three/examples/jsm/loaders/LottieLoader": {
+      "src": "../../../../../node_modules/three/examples/jsm/loaders/LottieLoader.js",
+      "file": "three_examples_jsm_loaders_LottieLoader.js",
+      "fileHash": "a992d7b8",
+      "needsInterop": false
+    },
+    "three/examples/jsm/libs/lil-gui.module.min.js": {
+      "src": "../../../../../node_modules/three/examples/jsm/libs/lil-gui.module.min.js",
+      "file": "three_examples_jsm_libs_lil-gui__module__min__js.js",
+      "fileHash": "ce4e73b8",
+      "needsInterop": false
+    },
+    "@tweenjs/tween.js": {
+      "src": "../../../../../node_modules/@tweenjs/tween.js/dist/tween.esm.js",
+      "file": "@tweenjs_tween__js.js",
+      "fileHash": "7aee5934",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5JX5KV3X": {
+      "file": "chunk-5JX5KV3X.js"
+    },
+    "chunk-76J2PTFD": {
+      "file": "chunk-76J2PTFD.js"
+    }
+  }
+}
