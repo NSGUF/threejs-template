@@ -6,3 +6,4 @@ bash.exe.stackdump
 source/FETCH_HEAD
 source/bash.exe.stackdump
 /docs/node_modules/
+/docs/docs/.vitepress/cache
