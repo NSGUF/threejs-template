@@ -4,8 +4,9 @@ import glsl from 'rollup-plugin-glsl';
 const path = require('path');
 
 export default {
+	base: './',
 	build: {
-		sourcemap: true,
+		outDir: './docs/docs/.vitepress/dist/template-demo'
 	},
 	resolve: {
 		// 添加 '.js'、'.ts' 和 '.vue' 扩展名

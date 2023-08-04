@@ -15,10 +15,6 @@ function getSpecificationSidebar () {
                 {
                     text: '规范',
                     link: '/specification/'
-                },
-                {
-                    text: '内部资料',
-                    link: '/specification/info'
                 }
             ]
         }

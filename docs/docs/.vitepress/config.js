@@ -9,7 +9,7 @@ export default defineConfig({
     description: '基于 ThreeJS 的3D文档',
     lastUpdated: true,
     cleanUrls: 'without-subfolders',
-    base: process.env.BASE || '/',
+    base: '/threejs-template/',
     head: [
         ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]
     ],
@@ -53,12 +53,12 @@ export default defineConfig({
         sidebar,
 
         editLink: {
-            pattern: 'http://mq.code.sangfor.org/14716/three-demo/edit/master/docs/docs/:path',
+            pattern: 'https://github.com/NSGUF/threejs-template/edit/master/docs/docs/:path',
             text: '在 GitLab 上编辑此页'
         },
 
         socialLinks: [
-            { icon: 'github', link: 'http://mq.code.sangfor.org/14716/three-demo' }
+            { icon: 'github', link: 'https://github.com/NSGUF/threejs-template' }
         ],
         docFooter: {
             prev: '上一章',
