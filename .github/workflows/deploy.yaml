@@ -18,7 +18,7 @@ jobs:
       - name: install
         run: pnpm i
       - name: build docs
-        run: cd docs && pnpm build && cd ../
+        run: cd docs && pnpm docs:build && cd ../
       - name: build project
         run: pnpm build
       - name: deploy
