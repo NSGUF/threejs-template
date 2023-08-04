@@ -14,7 +14,7 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
       - name: install pnpm
-        run: yarn global add pnpm
+        run: yarn global add pnpm@7.24.3
       - name: install
         run: pnpm i
       - name: build docs
