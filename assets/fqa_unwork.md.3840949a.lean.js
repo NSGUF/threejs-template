@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as p}from"./app.62f1b0cb.js";const E=JSON.parse('{"title":"\u529F\u80FD\u5931\u6548","description":"","frontmatter":{},"headers":[],"relativePath":"fqa/unwork.md","lastUpdated":1691138245000}'),l={name:"fqa/unwork.md"},o=p("",18),e=[o];function c(t,r,y,F,D,i){return n(),a("div",null,e)}const d=s(l,[["render",c]]);export{E as __pageData,d as default};
