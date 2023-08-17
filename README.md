@@ -5,15 +5,15 @@
 
 ## template使用
 ```bash
-1. yarn install
-2. npm run vite
+1. pnpm install
+2. pnpm run vite
 4. 打开 http://localhost:4040/
 ```
 
 ## docs
 ```bash
-1. cd docs && yarn install
-2. npm run vite
-3. npm run docs
+1. pnpm install
+2. pnpm run vite
+3. pnpm run docs
 4. 打开 http://localhost:5173/
 ```
