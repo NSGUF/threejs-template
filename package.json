@@ -9,6 +9,10 @@
     "fix": "eslint --ext .js,.ts,.vue --fix src",
     "preview": "vite preview"
   },
+  "engines": {
+	"node": ">=16.0.0",
+	"pnpm": "^8.0.0"
+  },
   "devDependencies": {
     "@types/three": "^0.139.0",
     "@typescript-eslint/eslint-plugin": "^6.2.0",

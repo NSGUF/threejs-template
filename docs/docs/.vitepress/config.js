@@ -53,7 +53,7 @@ export default defineConfig({
         sidebar,
 
         editLink: {
-            pattern: 'https://github.com/NSGUF/threejs-template/edit/master/docs/docs/:path',
+            pattern: 'https://github.com/NSGUF/threejs-template/edit/main/docs/docs/:path',
             text: '在 GitLab 上编辑此页'
         },
 
