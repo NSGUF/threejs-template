@@ -1,0 +1,2 @@
+import{_ as e,c as t,o as a,d as r}from"./app.2a831956.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"template/index.md","lastUpdated":1692236508000}'),s={name:"template/index.md"},o=r("iframe",{id:"iframe",height:"900px",width:"1960px",style:{margin:"0 0 0 -500px"},frameborder:"0",allowfullscreen:"true",src:"http://localhost:4040/"},`
+ `,-1),n=[o];function c(d,i,l,p,_,m){return a(),t("div",null,n)}const x=e(s,[["render",c]]);export{h as __pageData,x as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as e,o,a}from"./app.2a831956.js";const h=JSON.parse('{"title":"\u63A7\u5236\u53F0\u62A5\u9519","description":"","frontmatter":{},"headers":[],"relativePath":"fqa/error.md","lastUpdated":1692236508000}'),n={name:"fqa/error.md"},t=a("",7),r=[t];function l(p,i,c,d,_,m){return o(),e("div",null,r)}const y=s(n,[["render",l]]);export{h as __pageData,y as default};

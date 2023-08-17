@@ -1,0 +1,2 @@
+import{_ as e,c as t,o as a,d as r}from"./app.2a831956.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"template/index-pro.md","lastUpdated":1692236508000}'),o={name:"template/index-pro.md"},s=r("iframe",{id:"iframe",height:"900px",width:"1960px",style:{margin:"0 0 0 -500px"},frameborder:"0",allowfullscreen:"true",src:"/threejs-template/template-demo"},`
+ `,-1),n=[s];function d(p,c,i,l,m,_){return a(),t("div",null,n)}const x=e(o,[["render",d]]);export{h as __pageData,x as default};
